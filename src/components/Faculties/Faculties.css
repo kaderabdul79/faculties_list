@@ -1,0 +1,22 @@
+.faculties-cont{
+    padding: 10px 0;
+    width: 244px;
+    display: inline-block;
+    border-bottom: 1px solid grey;
+    border-right: 1px solid grey;
+    text-align: center;
+}
+.faculties-cont img{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(52, 154, 172);
+    border-radius: 50%;
+    border: 1px solid yellow;
+}
+.btn-regular{
+    background-color: teal;
+    padding: 7px 16px;
+}
+.btn-regular:hover{
+    background-color: turquoise;
+}
